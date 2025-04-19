@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Assesment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B874093-F743-4517-B8B9-32C5D7B5FDFF}|Assesment\\Assesment.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Assesment\\Assesment\\MainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B874093-F743-4517-B8B9-32C5D7B5FDFF}|Assesment\\Assesment.vcxproj|solutionrelative:Assesment\\MainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cpp",
+              "DocumentMoniker": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Assesment\\Assesment\\MainMenu.cpp",
+              "RelativeDocumentMoniker": "Assesment\\MainMenu.cpp",
+              "ToolTip": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Assesment\\Assesment\\MainMenu.cpp",
+              "RelativeToolTip": "Assesment\\MainMenu.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T22:45:37.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
