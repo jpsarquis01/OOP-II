@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\",
+  "WorkspaceRootPath": "E:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F69FB97-5709-4C89-B411-73A5F9D3E17E}|Exercise3\\Exercise3.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Exercise3\\Exercise3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1F69FB97-5709-4C89-B411-73A5F9D3E17E}|Exercise3\\Exercise3.vcxproj|solutionrelative:Exercise3\\Exercise3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA834CC0-F554-4D73-A3A8-D474BFB0FB7B}|Class2\\Class2.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Class2\\Class2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{FA834CC0-F554-4D73-A3A8-D474BFB0FB7B}|Class2\\Class2.vcxproj|E:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Class2\\Class2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FA834CC0-F554-4D73-A3A8-D474BFB0FB7B}|Class2\\Class2.vcxproj|solutionrelative:Class2\\Class2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8E801D4-DA72-4B00-B72E-AE0EEFEF50A8}|Exercise2\\Exercise2.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Exercise2\\Exercise2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D8E801D4-DA72-4B00-B72E-AE0EEFEF50A8}|Exercise2\\Exercise2.vcxproj|E:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Exercise2\\Exercise2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D8E801D4-DA72-4B00-B72E-AE0EEFEF50A8}|Exercise2\\Exercise2.vcxproj|solutionrelative:Exercise2\\Exercise2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5532C8BD-633E-4E76-8BB6-5FDF0F99695D}|Exercise1\\Exercise1.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Exercise1\\Exercise1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5532C8BD-633E-4E76-8BB6-5FDF0F99695D}|Exercise1\\Exercise1.vcxproj|E:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Exercise1\\Exercise1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5532C8BD-633E-4E76-8BB6-5FDF0F99695D}|Exercise1\\Exercise1.vcxproj|solutionrelative:Exercise1\\Exercise1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69FB97-5709-4C89-B411-73A5F9D3E17E}|Exercise3\\Exercise3.vcxproj|E:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Exercise3\\Exercise3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F69FB97-5709-4C89-B411-73A5F9D3E17E}|Exercise3\\Exercise3.vcxproj|solutionrelative:Exercise3\\Exercise3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,15 +26,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 213,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Exercise2.cpp",
-              "DocumentMoniker": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Exercise2\\Exercise2.cpp",
+              "DocumentMoniker": "E:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Exercise2\\Exercise2.cpp",
               "RelativeDocumentMoniker": "Exercise2\\Exercise2.cpp",
-              "ToolTip": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Exercise2\\Exercise2.cpp",
+              "ToolTip": "E:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Exercise2\\Exercise2.cpp",
               "RelativeToolTip": "Exercise2\\Exercise2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -43,11 +47,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Exercise1.cpp",
-              "DocumentMoniker": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Exercise1\\Exercise1.cpp",
+              "DocumentMoniker": "E:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Exercise1\\Exercise1.cpp",
               "RelativeDocumentMoniker": "Exercise1\\Exercise1.cpp",
-              "ToolTip": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Exercise1\\Exercise1.cpp",
+              "ToolTip": "E:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Exercise1\\Exercise1.cpp",
               "RelativeToolTip": "Exercise1\\Exercise1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -56,26 +60,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Exercise3.cpp",
-              "DocumentMoniker": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Exercise3\\Exercise3.cpp",
+              "DocumentMoniker": "E:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Exercise3\\Exercise3.cpp",
               "RelativeDocumentMoniker": "Exercise3\\Exercise3.cpp",
-              "ToolTip": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Exercise3\\Exercise3.cpp*",
-              "RelativeToolTip": "Exercise3\\Exercise3.cpp*",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE4AAAAeAAAAAAAAAA==",
+              "ToolTip": "E:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Exercise3\\Exercise3.cpp",
+              "RelativeToolTip": "Exercise3\\Exercise3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-19T20:43:26.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Class2.cpp",
-              "DocumentMoniker": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Class2\\Class2.cpp",
+              "DocumentMoniker": "E:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Class2\\Class2.cpp",
               "RelativeDocumentMoniker": "Class2\\Class2.cpp",
-              "ToolTip": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Class2\\Class2.cpp",
+              "ToolTip": "E:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class2\\Class2\\Class2.cpp",
               "RelativeToolTip": "Class2\\Class2.cpp",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGUAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-19T17:14:43.021Z",
               "EditorCaption": ""
