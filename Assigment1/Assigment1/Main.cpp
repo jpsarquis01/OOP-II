@@ -5,15 +5,15 @@
 #include "Person.h"
 #include "Group.h"
 
-//random group creator
 std::list<Person> CreateRandomGroup(int size)
 {
     std::list<Person> clients;
-    std::string names[] = { "Darren", "Santi", "Bob", "Alfred", "Juan" };
+    std::string names[] = { "Chanti", "Grevin", "Arthur", "Alfred", "Emir" };
 
+    //Adds random number to the names
     for (int i = 0; i < size; i++)
     {
-        std::string name = names[rand() % 5] + std::to_string(rand() % 100); // more randomness, "Name67" will be the output
+        std::string name = names[rand() % 5] + std::to_string(rand() % 100); 
         clients.push_back(Person(name));
     }
     return clients;
@@ -23,9 +23,9 @@ int main()
 {
     srand(time(NULL));
 
-    Restaurant restaurant(5); // create a restaurant with 5 tables
+    Restaurant restaurant(5); //() is for how many tables
 
-    std::cout << "Welcome to the Kingstaurant, enjoy the service.\n";
+    std::cout << "Welcome to the Yakitori, enjoy the service.\n";
     std::cout << "-------------------------------------\n\n";
 
     //test group
@@ -36,10 +36,7 @@ int main()
         restaurant.AddGroup(clients);
     }
 
-    restaurant.Run(50); // run simulation for 50 frames
-
-    // final message
-    std::cout << "\nThank you for using the Kingstaurant Simulation.\nPlease give us a good rating online!\n\n";
+    restaurant.Run(50); // () Frames runned
 
     return 0;
 }

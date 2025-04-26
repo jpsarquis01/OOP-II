@@ -1,0 +1,6 @@
+﻿  Calculator.cpp
+  Calculator.h
+  Ex2.cpp
+  Generating Code...
+x64\Debug\Calculator.obj : warning LNK4042: object specified more than once; extras ignored
+  Ex2.vcxproj -> D:\ProgrammingClass\Programming Tri 3 C++ II\Class3\x64\Debug\Ex2.exe

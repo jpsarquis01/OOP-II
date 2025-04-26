@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51090FB8-9F86-4155-A491-B4EB026029C7}|EX3\\EX3.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\EX3\\EX3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51090FB8-9F86-4155-A491-B4EB026029C7}|EX3\\EX3.vcxproj|solutionrelative:EX3\\EX3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51090FB8-9F86-4155-A491-B4EB026029C7}|EX3\\EX3.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\EX3\\Math.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51090FB8-9F86-4155-A491-B4EB026029C7}|EX3\\EX3.vcxproj|solutionrelative:EX3\\Math.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E0CE3-B9AF-4AE2-B2B4-330DC12561B0}|Class3\\Class3.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\Class3\\Class3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD6E0CE3-B9AF-4AE2-B2B4-330DC12561B0}|Class3\\Class3.vcxproj|solutionrelative:Class3\\Class3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592BD2E-EBA5-4888-AC5C-BB6614ADDCDF}|Ex2\\Ex2.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\Ex2\\Ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E592BD2E-EBA5-4888-AC5C-BB6614ADDCDF}|Ex2\\Ex2.vcxproj|solutionrelative:Ex2\\Ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828415C9-4593-4A61-A06A-169773008B10}|Ex1\\Ex1.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\Ex1\\Ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{828415C9-4593-4A61-A06A-169773008B10}|Ex1\\Ex1.vcxproj|solutionrelative:Ex1\\Ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51090FB8-9F86-4155-A491-B4EB026029C7}|EX3\\EX3.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\EX3\\Math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51090FB8-9F86-4155-A491-B4EB026029C7}|EX3\\EX3.vcxproj|solutionrelative:EX3\\Math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592BD2E-EBA5-4888-AC5C-BB6614ADDCDF}|Ex2\\Ex2.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\Ex2\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E592BD2E-EBA5-4888-AC5C-BB6614ADDCDF}|Ex2\\Ex2.vcxproj|solutionrelative:Ex2\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592BD2E-EBA5-4888-AC5C-BB6614ADDCDF}|Ex2\\Ex2.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\Ex2\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E592BD2E-EBA5-4888-AC5C-BB6614ADDCDF}|Ex2\\Ex2.vcxproj|solutionrelative:Ex2\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{828415C9-4593-4A61-A06A-169773008B10}|Ex1\\Ex1.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\Ex1\\Task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{828415C9-4593-4A61-A06A-169773008B10}|Ex1\\Ex1.vcxproj|solutionrelative:Ex1\\Task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 231,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Math.cpp",
+              "DocumentMoniker": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\EX3\\Math.cpp",
+              "RelativeDocumentMoniker": "EX3\\Math.cpp",
+              "ToolTip": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\EX3\\Math.cpp",
+              "RelativeToolTip": "EX3\\Math.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-26T19:39:01.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Math.h",
+              "DocumentMoniker": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\EX3\\Math.h",
+              "RelativeDocumentMoniker": "EX3\\Math.h",
+              "ToolTip": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\EX3\\Math.h",
+              "RelativeToolTip": "EX3\\Math.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-26T19:38:29.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EX3.cpp",
+              "DocumentMoniker": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\EX3\\EX3.cpp",
+              "RelativeDocumentMoniker": "EX3\\EX3.cpp",
+              "ToolTip": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\EX3\\EX3.cpp",
+              "RelativeToolTip": "EX3\\EX3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-26T19:37:30.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculator.cpp",
+              "DocumentMoniker": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\Ex2\\Calculator.cpp",
+              "RelativeDocumentMoniker": "Ex2\\Calculator.cpp",
+              "ToolTip": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\Ex2\\Calculator.cpp",
+              "RelativeToolTip": "Ex2\\Calculator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-26T19:24:35.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Calculator.h",
+              "DocumentMoniker": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\Ex2\\Calculator.h",
+              "RelativeDocumentMoniker": "Ex2\\Calculator.h",
+              "ToolTip": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\Ex2\\Calculator.h",
+              "RelativeToolTip": "Ex2\\Calculator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-26T19:15:21.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ex2.cpp",
+              "DocumentMoniker": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\Ex2\\Ex2.cpp",
+              "RelativeDocumentMoniker": "Ex2\\Ex2.cpp",
+              "ToolTip": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\Ex2\\Ex2.cpp",
+              "RelativeToolTip": "Ex2\\Ex2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-26T19:14:25.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task.h",
+              "DocumentMoniker": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\Ex1\\Task.h",
+              "RelativeDocumentMoniker": "Ex1\\Task.h",
+              "ToolTip": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\Ex1\\Task.h",
+              "RelativeToolTip": "Ex1\\Task.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-26T18:42:33.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ex1.cpp",
+              "DocumentMoniker": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\Ex1\\Ex1.cpp",
+              "RelativeDocumentMoniker": "Ex1\\Ex1.cpp",
+              "ToolTip": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\Ex1\\Ex1.cpp",
+              "RelativeToolTip": "Ex1\\Ex1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-26T18:41:28.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class3.cpp",
+              "DocumentMoniker": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\Class3\\Class3.cpp",
+              "RelativeDocumentMoniker": "Class3\\Class3.cpp",
+              "ToolTip": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3\\Class3\\Class3.cpp",
+              "RelativeToolTip": "Class3\\Class3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-26T18:22:51.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

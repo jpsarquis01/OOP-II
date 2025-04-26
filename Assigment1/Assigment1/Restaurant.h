@@ -13,9 +13,9 @@ public:
 	Restaurant(int numTables = 5);
 
 	void AddGroup(const std::list<Person>& clients);
-	void Simulate(int frames = 1);
+	void StartServing(int frames = 1);
 	void DisplayStatus() const;
-	void Run(int maxFrames = 100);
+	void Run(int maxFrames = 200);
 
 	bool IsFull() const;
 	int GetAvailableTable() const;

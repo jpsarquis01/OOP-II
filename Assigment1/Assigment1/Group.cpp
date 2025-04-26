@@ -26,28 +26,6 @@ std::list<Person> Group::GetMembers()
     return _groupMembers;
 }
 
-void Group::SetStatus(int status)
-{
-    _status = status;
-
-    switch (_status)
-    {
-    case 0: // WAITING
-        _remainingFrames = _enterFrames;
-        break;
-    case 1: // SEATED
-        _remainingFrames = 0;
-        break;
-    case 2: // ORDERING
-        _remainingFrames = _orderFrames;
-        break;
-    case 4: // EATING
-        _remainingFrames = _eatFrames;
-        break;
-    default:
-        break;
-    }
-}
 int Group::GetStatus() const
 {
     return _status;
@@ -68,6 +46,16 @@ int Group::GetTableNumber() const
     return _tableNumber;
 }
 
+int Group::GetRemainingFrames() const
+{
+    return _remainingFrames;
+}
+
+void Group::SetRemainingFrames(int frames)
+{
+    _remainingFrames = frames;
+}
+
 bool Group::UpdateFrames()
 {
     if (_remainingFrames > 0)
@@ -77,12 +65,25 @@ bool Group::UpdateFrames()
     return (_remainingFrames <= 0);
 }
 
-int Group::GetRemainingFrames() const
+void Group::SetStatus(int status)
 {
-    return _remainingFrames;
-}
+    _status = status;
 
-void Group::SetRemainingFrames(int frames)
-{
-    _remainingFrames = frames;
+    switch (_status)
+    {
+	case 0: // In waiting list
+        _remainingFrames = _enterFrames;
+        break;
+    case 1: // In table
+        _remainingFrames = 0;
+        break;
+    case 2: // Geting food
+        _remainingFrames = _orderFrames;
+        break;
+    case 4: // Eating
+        _remainingFrames = _eatFrames;
+        break;
+    default:
+        break;
+    }
 }
