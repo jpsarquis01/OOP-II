@@ -1,17 +1,14 @@
 #pragma once
-#include <vector>
 #include <string>
-#include <queue>
+#include <iostream>
 
-namespace Assigment1
+class Restaurant
 {
-	class Restaurant
-	{
-	public:
+public:
+	int hola;
+
+private:
 
 
-	private:
+};
 
-
-	};
-}
