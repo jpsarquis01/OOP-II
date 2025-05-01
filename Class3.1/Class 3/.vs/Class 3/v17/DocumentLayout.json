@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{680220CA-D443-4279-BB9D-9F97D50F2115}|InClassExercise\\InClassExercise.vcxproj|solutionrelative:InClassExercise\\PetRegistry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{680220CA-D443-4279-BB9D-9F97D50F2115}|InClassExercise\\InClassExercise.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3.1\\Class 3\\InClassExercise\\PetRegistry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{680220CA-D443-4279-BB9D-9F97D50F2115}|InClassExercise\\InClassExercise.vcxproj|solutionrelative:InClassExercise\\PetRegistry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{680220CA-D443-4279-BB9D-9F97D50F2115}|InClassExercise\\InClassExercise.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3.1\\Class 3\\InClassExercise\\InClassExercise.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{680220CA-D443-4279-BB9D-9F97D50F2115}|InClassExercise\\InClassExercise.vcxproj|solutionrelative:InClassExercise\\InClassExercise.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PetRegistry.cpp",
+              "DocumentMoniker": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3.1\\Class 3\\InClassExercise\\PetRegistry.cpp",
+              "RelativeDocumentMoniker": "InClassExercise\\PetRegistry.cpp",
+              "ToolTip": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3.1\\Class 3\\InClassExercise\\PetRegistry.cpp",
+              "RelativeToolTip": "InClassExercise\\PetRegistry.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-26T22:59:08.842Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +45,14 @@
               "RelativeDocumentMoniker": "InClassExercise\\PetRegistry.h",
               "ToolTip": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3.1\\Class 3\\InClassExercise\\PetRegistry.h",
               "RelativeToolTip": "InClassExercise\\PetRegistry.h",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-26T21:46:38.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "InClassExercise.cpp",
               "DocumentMoniker": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\Class3.1\\Class 3\\InClassExercise\\InClassExercise.cpp",
               "RelativeDocumentMoniker": "InClassExercise\\InClassExercise.cpp",

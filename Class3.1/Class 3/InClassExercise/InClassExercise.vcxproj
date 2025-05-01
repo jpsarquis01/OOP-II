@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="InClassExercise.cpp" />
+    <ClCompile Include="PetRegistry.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PetRegistry.h" />

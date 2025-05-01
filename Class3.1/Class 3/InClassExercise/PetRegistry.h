@@ -69,6 +69,21 @@ public:
 	
 	}
 
+	// Gets a pet by ID (Returns NULL if theres no match)
+	const Pet* GetPet(int id) const
+	{
+		for (const auto& pet : pets)
+		{
+			if (pet.ID == id)
+			{
+				return &pet;
+			}
+		}
+		return nullptr; // Return nullptr if not found
+	}
+
+
+
 private:
 	//Constructor for singleton
 	PetRegistry() : nextID(1)
