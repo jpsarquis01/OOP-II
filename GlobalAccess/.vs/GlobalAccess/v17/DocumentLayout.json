@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\GlobalAccess\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D90D3478-F610-4568-8692-2A722A081339}|GlobalAccess\\GlobalAccess.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\GlobalAccess\\GlobalAccess\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D90D3478-F610-4568-8692-2A722A081339}|GlobalAccess\\GlobalAccess.vcxproj|solutionrelative:GlobalAccess\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D90D3478-F610-4568-8692-2A722A081339}|GlobalAccess\\GlobalAccess.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\GlobalAccess\\GlobalAccess\\Globals.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D90D3478-F610-4568-8692-2A722A081339}|GlobalAccess\\GlobalAccess.vcxproj|solutionrelative:GlobalAccess\\Globals.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D90D3478-F610-4568-8692-2A722A081339}|GlobalAccess\\GlobalAccess.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\GlobalAccess\\GlobalAccess\\GlobalAccess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D90D3478-F610-4568-8692-2A722A081339}|GlobalAccess\\GlobalAccess.vcxproj|solutionrelative:GlobalAccess\\GlobalAccess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D90D3478-F610-4568-8692-2A722A081339}|GlobalAccess\\GlobalAccess.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\GlobalAccess\\GlobalAccess\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D90D3478-F610-4568-8692-2A722A081339}|GlobalAccess\\GlobalAccess.vcxproj|solutionrelative:GlobalAccess\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D90D3478-F610-4568-8692-2A722A081339}|GlobalAccess\\GlobalAccess.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\GlobalAccess\\GlobalAccess\\GlobalAccess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D90D3478-F610-4568-8692-2A722A081339}|GlobalAccess\\GlobalAccess.vcxproj|solutionrelative:GlobalAccess\\GlobalAccess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D90D3478-F610-4568-8692-2A722A081339}|GlobalAccess\\GlobalAccess.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\GlobalAccess\\GlobalAccess\\Globals.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D90D3478-F610-4568-8692-2A722A081339}|GlobalAccess\\GlobalAccess.vcxproj|solutionrelative:GlobalAccess\\Globals.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90D3478-F610-4568-8692-2A722A081339}|GlobalAccess\\GlobalAccess.vcxproj|D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\GlobalAccess\\GlobalAccess\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D90D3478-F610-4568-8692-2A722A081339}|GlobalAccess\\GlobalAccess.vcxproj|solutionrelative:GlobalAccess\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "GlobalAccess.cpp",
               "DocumentMoniker": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\GlobalAccess\\GlobalAccess\\GlobalAccess.cpp",
               "RelativeDocumentMoniker": "GlobalAccess\\GlobalAccess.cpp",
               "ToolTip": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\GlobalAccess\\GlobalAccess\\GlobalAccess.cpp",
               "RelativeToolTip": "GlobalAccess\\GlobalAccess.cpp",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGwAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-26T22:15:35.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GameManager.cpp",
               "DocumentMoniker": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\GlobalAccess\\GlobalAccess\\GameManager.cpp",
               "RelativeDocumentMoniker": "GlobalAccess\\GameManager.cpp",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Globals.h",
               "DocumentMoniker": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\GlobalAccess\\GlobalAccess\\Globals.h",
               "RelativeDocumentMoniker": "GlobalAccess\\Globals.h",
@@ -69,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "GameManager.h",
               "DocumentMoniker": "D:\\ProgrammingClass\\Programming Tri 3 C\u002B\u002B II\\GlobalAccess\\GlobalAccess\\GameManager.h",
               "RelativeDocumentMoniker": "GlobalAccess\\GameManager.h",
