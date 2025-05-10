@@ -1,0 +1,63 @@
+Part 1: (30%)
+1) What are the 4 pricipals of Object Oriented Programming? 
+   Describe each.
+   Polymorphism: The ability to present the same interface for different data types.
+   Encapsulation: The bundling of data with the methods that operate on that data.
+   Inheritance: The mechanism of basing an object or class upon another object or class, retaining similar implementation.
+   Abstraction: The concept of hiding the complex reality while exposing only the necessary parts.
+
+
+2) What is the difference between a Stack and a Queue?
+Stack is a Data structure that works with the "Last in First out" meaining that when some type of data is added, you will first need to remove.
+Queue is Data structure that works with the "First in First out" meaning that when some type of data is added to the queue, it will be the first to be removed.
+
+
+3) In a vector, what is the difference between the functions "reserve" and "resize"?
+Reserve is used when you know that youll be adding a certain amount of data to the vector, and it will reserve that amount of space in memory.
+Resize is used when you want to change the size of the vector or add some type of  data in the middle of the already stored data, and it will add or remove elements from the vector.
+
+
+4) Give an example of when a list may be more useful than a vector.
+A list is more useful than a vector when you know that youll be adding or removing data from the middle of the list, because a vector will need to shift all the data to make room for the new data, while a list will only need to change the pointers of the data before and after the new data.
+
+
+5) What are .h typically used for vs what .cpp files are used for?
+Header files are typically used for creating classes and defining the functions and variables that will be used in the program.
+Cpp files are the ones responsable for implementing and and running the logic that will be used in the program using the classes and functions defined in the header files.
+
+
+6) What are the differences between a struct and a class? 
+A struct is a data structure that is used to group related variables together. 
+A class is a blueprint for creating objects that can contain both data and methods.
+
+   Why would you use one over the other?
+   A struct is more for simple data that dont use neither encapsulation or inheritance
+   A class is more for complex data that will use encapsulation and inheritance.
+
+
+7) What is a reference used for?
+A reference is used to access a variable without making a copy of it.
+
+   What is a pointer used for?
+   A pointer is used for storing the address of a variable in memory allowing the manipulation of the variable directly.
+   
+
+8) When are keywords like "inline" and "constexpr" executed?
+
+
+
+
+9) Why would the keyword "virtual" be used?
+   The keyword "virtual" is used to allow a function to be overridden in a derived class, allowing for polymorphic behavior.
+
+   What is the other keyword that is also used if something is "virtual"?
+   Override and it acts like a "reciver" for the virtual function.
+
+
+
+10) What are the six special member functions that can be automatically created in a class by the compiler?
+   1. Default constructor
+   2. Copy constructor
+   3. Move constructor
+   4. Destructor
+   // I dont know the other ones 
